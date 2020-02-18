@@ -1,0 +1,39 @@
+/*
+    Name: hcbw (High contract, black & white)
+    Date Created: 2/18/20
+    Last Modified: 2/18/20
+    Creator: Tyler Wright
+    GitHub: https://github.com/tylwright/trilium-notes-extras
+    Description: Trilium Notes theme that is black & white, high contrast
+*/
+
+body.theme-hcbw {
+    --main-background-color: white;
+    --main-text-color: black;
+    --main-border-color: black;
+    --accented-background-color: lightgrey;
+    --more-accented-background-color: silver;
+    --header-background-color: white;
+    --button-background-color: white;
+    --button-disabled-background-color: lightgrey;
+    --button-border-color: black;
+    --button-text-color: black;
+    --button-border-radius: 2px;
+    --primary-button-background-color: white;
+    --primary-button-text-color: black;
+    --primary-button-border-color: black;
+    --muted-text-color: black;
+    --input-text-color: black;
+    --input-background-color: white;
+    --hover-item-text-color: white;
+    --hover-item-background-color: black;
+    --active-item-text-color: white;
+    --active-item-background-color: black;
+    --menu-text-color: white;
+    --menu-background-color: black;
+    --tooltip-background-color: white;
+    --link-color: black;
+    --modal-background-color: white;
+    --modal-backdrop-color: black;
+    --scrollbar-border-color: black;
+}
